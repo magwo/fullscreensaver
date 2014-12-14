@@ -1,4 +1,4 @@
 fullscreensaver
 ===============
 
-Fullscreensaver for images n stuff, to be used with web screensavers
+Fullscreensaver for images, to be used with web screensavers
